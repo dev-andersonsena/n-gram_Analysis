@@ -1,0 +1,6 @@
+## Building a Language Model Using Histogram N-Gram Analysis
+
+
+This project introduces language modeling by focusing on generating pop song lyrics. You will implement histogram N-gram models using the Natural Language Toolkit (NLTK) to analyze and understand word frequencies and distributions. This approach helps reveal linguistic patterns and repetitive structures characteristic of pop music.
+
+By leveraging these techniques, you will gain insights into how words are structured and distributed in text, laying a foundation for more advanced Natural Language Processing (NLP) applications.
